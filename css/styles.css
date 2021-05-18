@@ -1,0 +1,145 @@
+.profile_img{
+  width: 350px;
+  height: 350px;
+  margin-top: 100px;
+}
+.programmer{
+  width: 90%;
+  height: 70%;
+
+}
+
+
+.top_container{
+background-color: #b6c9f0;
+padding-top: 100px;
+position: relative;
+}
+
+.middle_container{
+
+}
+
+.bottom_container{
+
+}
+
+.skill-row{
+  width: 50%;
+  margin: 50px auto 100px auto;
+  display: inline-block;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill_text_1{
+  position:relative;
+  left:70px;
+  top:50px;
+}
+
+
+
+body{
+  margin:0;
+  text-align: center;
+  position: relative;
+  font-family: 'Merriweather', serif;
+
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 130px;
+  color: #233e8b;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size:  3rem ;
+  color: #233e8b;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #233e8b;
+}
+
+hr {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  background-color: none;
+  border-style: none;
+  border-top: dotted grey;
+  border-width : 8px;
+  width: 5%;
+  height: 20px;
+}
+
+.skill_img1{
+  width: 35%;
+  float: left;
+}
+
+.skill_img2{
+  width: 35%;
+  float: right;
+}
+
+
+.top_cloud{
+  position: absolute;
+  right: 300px;
+  top:50px;
+  height: 70px;
+}
+
+.bottom_cloud{
+  position: absolute;
+  left: 150px;
+  bottom: 300px;
+  height: 6.375%;
+
+}
+
+.intor_text{
+  width:70%;
+  margin: auto;
+}
+.BUTTON_ZED {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: auto;
+   line-height: 30%;
+   color: #FFFFFF;
+   font-family: Verdana;
+   width: auto;
+   font-size: 200%;
+   font-weight: 100;
+   padding: 23px;
+   background-color: #233e8b;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+
+.footer-link{
+  margin-left: 2px;
+  margin-right: 2px;
+}
+.footer_text_love{
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 50%;
+}
+
+.copy_right{
+  height: 50%;
+}
