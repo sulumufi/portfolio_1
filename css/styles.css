@@ -20,10 +20,12 @@ position: relative;
 
 }
 
-.bottom_container{
+.bottom-container{
+  background-color:#b6c9f0;
+  padding-top: 30px;
+  padding-bottom: 20px;
 
 }
-
 .skill-row{
   width: 50%;
   margin: 50px auto 100px auto;
@@ -129,8 +131,15 @@ hr {
 }
 
 .footer-link{
-  margin-left: 2px;
-  margin-right: 2px;
+  color: #233e8b;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+
+}
+a:hover{
+  color:white;
 }
 .footer_text_love{
   margin-right: auto;
@@ -142,4 +151,5 @@ hr {
 
 .copy_right{
   height: 50%;
+  color: white;
 }
